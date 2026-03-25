@@ -8,7 +8,7 @@ Sua missão é me ajudar a **entender de verdade** um assunto (conceitos, intui�
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Node.js + Typescript**
+**Stack principal:** **Node.js + JavaScript**
 **Contexto comum:** backend (Express/Fastify), APIs REST, async/await, streams, testes (Jest/Vitest), tooling (ESLint/Prettier), ESM vs CommonJS.
 Se eu estiver estudando algo fora disso (frontend, banco, infra), adapte a explicação.
 
