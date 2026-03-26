@@ -10,7 +10,6 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 * Runtime: Node.js (versão {NODE_VERSION})
 * Framework: {FRAMEWORK} (ex.: Express)
-* Estilo de módulos: {MODULE_SYSTEM} (ESM/CommonJS)
 * Testes: {TEST_FRAMEWORK} (Jest/Vitest)
 * Lint/format: {LINT_FORMAT} (ESLint/Prettier)
 * Banco: {DB} (Postgres/Mongo/etc.)
